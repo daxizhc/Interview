@@ -26,8 +26,8 @@ Mysql主从同步的实现原理？
 谈谈数据库乐观锁与悲观锁？  
 有使用过哪些NoSQL数据库？MongoDB和Redis适用哪些场景？  
 描述分布式事务之TCC服务设计？  
-Redis和memcache有什么区别？Redis为什么比memcache有优势？  
-考虑redis的时候，有没有考虑容量？大概数据量会有多少？  
+- [Redis和memcache有什么区别？Redis为什么比memcache有优势？](./aliyun-first-interview-fail/redis-memcached.md)    
+- [考虑redis的时候，有没有考虑容量？大概数据量会有多少？](./aliyun-first-interview-fail/redis-volume.md)    
 谈谈分布式锁、以及分布式全局唯一ID的实现比较？  
 集群监控的时候，重点需要关注哪些技术指标？这些指标如何优化？  
 从千万的数据到亿级的数据，会面临哪些技术挑战？你的技术解决思路？  
