@@ -13,8 +13,8 @@
 - [HashMap在什么情况下会扩容，或者有哪些操作会导致扩容？](./aliyun-first-interview-fail/hashmap-resize.md)
 - [HashMap put方法的执行过程？](./aliyun-first-interview-fail/hashmap-put.md)  
 - [HashMap检测到hash冲突后，将元素插入在链表的末尾还是开头？](./aliyun-first-interview-fail/hashmap-conflict.md)  
-1.8还采用了红黑树，讲讲红黑树的特性，为什么人家一定要用红黑树而不是AVL、B树之类的？  
-https和http区别，有没有用过其他安全传输手段？  
+- [1.8还采用了红黑树，讲讲红黑树的特性，为什么人家一定要用红黑树而不是AVL、B树之类的？](./aliyun-first-interview-fail/hashmap-redblacktree.md)    
+- [https和http区别，有没有用过其他安全传输手段？](./aliyun-first-interview-fail/https-http.md)  
 线程池的工作原理，几个重要参数，然后给了具体几个参数分析线程池会怎么做，最后问阻塞队列的作用是什么？  
 - [Linux怎么查看系统负载情况？](./aliyun-first-interview-fail/linux-load.md)  
 请详细描述springmvc处理请求全流程？  
