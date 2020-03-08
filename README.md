@@ -19,11 +19,11 @@
 - [Linux怎么查看系统负载情况？](./aliyun-first-interview-fail/linux-load.md)  
 请详细描述springmvc处理请求全流程？  
 讲一讲AtomicInteger，为什么要用CAS而不是synchronized？  
-查询中哪些情况不会使用索引？  
+- [查询中哪些情况不会使用索引？](./aliyun-first-interview-fail/mysql-not-use-index.md)  
 - [数据库索引，底层是怎样实现的，为什么要用B树索引？](./aliyun-first-interview-fail/innodb-index-implement.md)  
-Mysql主从同步的实现原理？  
+- [Mysql主从同步的实现原理？](./aliyun-first-interview-fail/mysql-master-slave.md)  
 - [MySQL是怎么用B+树？](./aliyun-first-interview-fail/mysql-user-b+tree.md)  
-谈谈数据库乐观锁与悲观锁？  
+- [谈谈数据库乐观锁与悲观锁？](./aliyun-first-interview-fail/mysql-lock.md)  
 有使用过哪些NoSQL数据库？MongoDB和Redis适用哪些场景？  
 描述分布式事务之TCC服务设计？  
 - [Redis和memcache有什么区别？Redis为什么比memcache有优势？](./aliyun-first-interview-fail/redis-memcached.md)    
