@@ -25,7 +25,7 @@
 - [MySQL是怎么用B+树？](./aliyun-first-interview-fail/mysql-user-b+tree.md)  
 - [谈谈数据库乐观锁与悲观锁？](./aliyun-first-interview-fail/mysql-lock.md)  
 有使用过哪些NoSQL数据库？MongoDB和Redis适用哪些场景？  
-描述分布式事务之TCC服务设计？  
+- [描述分布式事务之TCC服务设计？](./aliyun-first-interview-fail/transaction-tcc.md)  
 - [Redis和memcache有什么区别？Redis为什么比memcache有优势？](./aliyun-first-interview-fail/redis-memcached.md)    
 - [考虑redis的时候，有没有考虑容量？大概数据量会有多少？](./aliyun-first-interview-fail/redis-volume.md)    
 谈谈分布式锁、以及分布式全局唯一ID的实现比较？  
