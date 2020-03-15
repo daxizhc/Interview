@@ -28,7 +28,7 @@
 - [描述分布式事务之TCC服务设计？](./aliyun-first-interview-fail/transaction-tcc.md)  
 - [Redis和memcache有什么区别？Redis为什么比memcache有优势？](./aliyun-first-interview-fail/redis-memcached.md)    
 - [考虑redis的时候，有没有考虑容量？大概数据量会有多少？](./aliyun-first-interview-fail/redis-volume.md)    
-谈谈分布式锁、以及分布式全局唯一ID的实现比较？  
+- [谈谈分布式锁、以及分布式全局唯一ID的实现比较？](./aliyun-first-interview-fail/distributed-lock-unique-id.md)    
 集群监控的时候，重点需要关注哪些技术指标？这些指标如何优化？  
 从千万的数据到亿级的数据，会面临哪些技术挑战？你的技术解决思路？  
 最近两年遇到的最大的挫折，从挫折中学到了什么？  
